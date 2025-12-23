@@ -52,7 +52,7 @@ It provides a modern GUI, automation, and safety features on top of VeraCrypt wi
 
 ## 🌐 Developer
 **Follow the developer:**  
-👉 https://eng-m7moud.github.io/protofolio/#contact
+👉 https://Prof-0.github.io/protofolio/#contact
 
 The link opens automatically on:
 - Vault mount
@@ -97,3 +97,10 @@ Read more about the project details here:
 * 👥 **[Responsibilities](Module-Responsibilities.md)** 
 
 ---
+
+# 👤 Author
+## ***Zero***
+
+---
+
+
