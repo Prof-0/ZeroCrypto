@@ -94,6 +94,6 @@ Read more about the project details here:
 
 * 🏗️ **[System Architecture](ARCHITECTURE.md)**
 * ⚖️ **[Disclaimer](Disclaimer.md)** 
-* 👥 **[Responsibilities](Responsibilities.md)** 
+* 👥 **[Responsibilities](Module-Responsibilities.md)** 
 
 ---
