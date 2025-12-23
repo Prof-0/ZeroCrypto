@@ -85,7 +85,7 @@ VeraCrypt remains untouched and fully trusted.
 ### Build
 ```powershell
 .\build.ps1
-
+```
 ---
 
 ## 📚 Project Documentation 
