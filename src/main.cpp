@@ -54,7 +54,7 @@ struct AppConfig {
     int lastActiveIndex = 0; 
 };
 
-static const char* DEV_PORTFOLIO_URL = "https://eng-m7moud.github.io/protofolio/#contact";
+static const char* DEV_PORTFOLIO_URL = "https://prof-0.github.io/Zero//#contact";
 
 // UI State Flags
 // REMOVED g_OpenAddPopup to fix ghost build error
